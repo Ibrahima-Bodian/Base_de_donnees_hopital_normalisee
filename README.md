@@ -1,4 +1,5 @@
 # Base de Données Hospitalière
+Base de données hospitalière (PostgreSQL) normalisée et sécurisée avec RBAC et déclencheurs. Gère les patients, employés, chambres, traitements, équipements, assurances et facturation.
 
 ## Présentation du Projet
 
