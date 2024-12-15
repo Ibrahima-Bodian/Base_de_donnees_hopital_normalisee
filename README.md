@@ -122,4 +122,4 @@ Des triggers PL/pgSQL implémentent la logique métier :
 
 # Conclusion
 
-Ce projet constitue une base solide pour la gestion informatisée et sécurisée d’un hôpital. La conception a été réalisée en suivant les bonnes pratiques de normalisation, d’intégrité référentielle, de mise en place de rôles et de privilèges, ainsi que de logique métier au moyen de triggers. Le résultat est une base de données robuste, évolutive et claire, adaptée à l’implémentation future d’applications front-end ou d’outils d’analyse de données (Data Analytics, BI).
+Ce projet constitue une base solide pour la gestion informatisée et sécurisée d’un hôpital. La conception a été réalisée en suivant les bonnes pratiques de normalisation, d’intégrité référentielle, de mise en place de rôles et de privilèges, ainsi que de logique métier au moyen de triggers. Le résultat est une base de données robuste, évolutive et claire, adaptée à l’implémentation future d’applications front-end ou d’outils d’analyse de données (Data Analytics, BI).# Base_de_donnees_hopital_normalisee
